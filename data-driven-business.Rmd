@@ -7,7 +7,7 @@ output:
     toc: yes
     toc_depth: 2
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe> 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
@@ -20,4 +20,4 @@ Netflix collects customer feedback and interaction data with a television show i
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Netflix even uses big data and data analytics to do custom marketing. For example, to promote a movie Netflix will cut more than ten different versions of the trailer to promote the show. If you've watched a lot of TV shows focusing on women, you'll have a trailer focusing on female characters. Netflix doesn't have to spend too much time and resources on program marketing because they already know how many people will be interested in it and what will encourage them to tune in.
+Netflix even uses big data and data analytics to do custom marketing. For example, to promote a movie Netflix will cut more than ten different versions of the trailer to promote the show. If you've watched a lot of TV shows focusing on women, you'll have a trailer focusing on female characters. Netflix doesn't have to spend too much time and resources on program marketing because they already know how many people will be interested in it and what will encourage them to tune in.While in the past, the company took a lot of time to synthesize and track customers in a traditional approach.
