@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: "Thanh Hung Le"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -8,19 +8,26 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4F40SsEFyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Small farmers business in today world are facing a lot of problems such as the competition from big factory farmers ,unreliable  weather conditions leads to difficult demand forecasting, the farmers don't know what time they should harvest their products and how many products they should harvest . The short shelf life of their products is also an condition need to be monitored to prevent product spoiling during transportation or after it is delivered to the customer.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Based on the case study in the video mentioned above, to solve this problem they built an ecommerce site to collect and track buyers' data,
+Based on customer registration data they can create a predictive chart of demand for farmers from which orders will be processed weekly, and selling online will help farmers. is not limited by the surrounding geography and the number of markets they can sell.
+in addition, demand data will allow the farmer to predict which crops will be planted next in the future or how much will be harvested.
+The last is to use data from deliveries to optimize shipping routes.
+
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+The use of bigdata to analyze and plan cultivation and sales of small farms helps to build a better and comprehensive food system.
+Using customer demand forecasting data helps farmers know how many they have to grow and harvest for which varieties,this can improve food wastage due to some products with short lifecycle rot
+In addition, the farmers can exchange data with each other to bench mark, which in turn can help each other come up with more effective strategies in the future.
+ 
