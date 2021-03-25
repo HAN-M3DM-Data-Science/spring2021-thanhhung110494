@@ -7,24 +7,17 @@ output:
     toc: yes
     toc_depth: 2
 ---
-
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe> 
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix has the advantage of an online movie-watching platform that can track (on a large scale) the user's viewing rate and completion rate. For example, could Netflix collect data on how many users who started watching Game of throne (from season 1) completed it through season 3? For example, 70%. At the same time, where is Netflix also able to get data on what are popular viewing stops for users? What did the other 30% of users do? What is the time gap when consumers watch one episode and when they watch the next?
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix collects customer feedback and interaction data with a television show in real time. For example, Netflix knows the time and date the user watched a show, the device used, if the show is paused, will the viewer continue watching after pausing. Netflix even has screenshots of scenes people may have watched multiple times, what ratings are given, how many searches, and what content is searched. With this data, Netflix is able to create detailed profiles of its users. From there, Netflix uses a recommendation algorithm to recommend TV shows and movies based on user preferences.
+
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix even uses big data and data analytics to do custom marketing. For example, to promote a movie Netflix will cut more than ten different versions of the trailer to promote the show. If you've watched a lot of TV shows focusing on women, you'll have a trailer focusing on female characters. Netflix doesn't have to spend too much time and resources on program marketing because they already know how many people will be interested in it and what will encourage them to tune in.While in the past, the company took a lot of time to synthesize and track customers in a traditional approach.
